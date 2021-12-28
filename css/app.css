@@ -1710,7 +1710,7 @@ select {
 }
 
 .h2 {
-  font-size: 64px;
+  font-size: 65px;
   line-height: 1.125;
 }
 
@@ -4455,6 +4455,7 @@ select {
   position: relative;
   padding-top: 130px;
   color: #ffffff;
+  
 }
 
 .quality__head {
@@ -5982,7 +5983,7 @@ select {
     padding: 0 32px;
   }
   .h2 {
-    font-size: 40px;
+    font-size: 36px;
     line-height: 1.2;
   }
   .h4 {
@@ -6167,6 +6168,7 @@ select {
     width: 100%;
     max-width: 100%;
   }
+
   .details__foot {
     display: block;
     padding: 0;
